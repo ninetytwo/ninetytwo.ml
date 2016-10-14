@@ -1,0 +1,12 @@
+[package]
+
+name = "ninetytwo-ml"
+version = "0.1.0"
+authors = ["Brian Price <brian.ce.pe92@gmail.com>"]
+
+[dependencies]
+
+nickel = "0.8"
+hyper = "0.8"
+tera = "*"
+
